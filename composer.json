@@ -1,0 +1,17 @@
+{
+    "name": "atkan/db-query",
+    "autoload": {
+        "psr-4": {
+            "DBQuery\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Atakan Senturk",
+            "email": "atkansenturk@protonmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
